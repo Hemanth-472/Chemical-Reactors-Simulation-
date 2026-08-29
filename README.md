@@ -56,7 +56,7 @@ pip install matplotlib
 
 3. Run the program:
 
-python chemical_reactor_simulation.py
+python chemical reactor simulation.py
 
 Project Purpose
 
